@@ -13,7 +13,7 @@ You may use **any programming language** or automation framework of your choice 
 
 The following areas will be evaluated:
 
-### Step 1: GitHub Workflow
+### Step 1: GitHub Workflow (5 minutes)
 
 * Clone the repository: https://github.com/parthibanvthink/QA-Automation-assessment.git
 * Pull latest changes
@@ -21,7 +21,7 @@ The following areas will be evaluated:
   * Example: `Parthiban`
 * Once complete, commit your changes and push them.
 
-### Step 2: Test Plan
+### Step 2: Test Plan (20 minutes)
 
 Prepare a clear and structured test plan covering:
 
@@ -31,7 +31,7 @@ Prepare a clear and structured test plan covering:
 * Tools used
 * Assumptions
 
-### Step 3: Test Automation Script
+### Step 3: Test Automation Script (25 minutes)
 
 Develop automation test scripts with focus on:
 
@@ -41,7 +41,7 @@ Develop automation test scripts with focus on:
 * Maintainable design
 * Clean and readable code
 
-### Step 4: Test Report
+### Step 4: Test Report (10 minutes)
 
 Generate an execution report that includes:
 
