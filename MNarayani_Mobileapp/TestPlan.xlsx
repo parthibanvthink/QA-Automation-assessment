@@ -1,0 +1,6 @@
+Test Plan 1: Login with valid Username and Password
+Test Plan 2: Login with invalid Username and Password
+Test plan 3: Click Login without filling username and Password
+Test Plan 4: Enter all the fields and save the form
+Test Plan 5: Click save without filling mandatory fields
+Test plan 6: Fill the forms and click back without save
