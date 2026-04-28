@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QA-Automation-assessment.iml" filepath="$PROJECT_DIR$/.idea/QA-Automation-assessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automationMobile/automationMobile.iml" filepath="$PROJECT_DIR$/automationMobile/automationMobile.iml" />
+    </modules>
+  </component>
+</project>
