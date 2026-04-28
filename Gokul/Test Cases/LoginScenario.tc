@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user able to login with valid credentials.</description>
+   <name>LoginScenario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95683cbe-f3c4-4243-a7f6-87eaa841f050</testCaseGuid>
+</TestCaseEntity>
